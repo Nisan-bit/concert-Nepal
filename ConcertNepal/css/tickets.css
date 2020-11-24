@@ -1,0 +1,70 @@
+  body{
+    margin:0px;
+    font-family: sans-serif;
+    background-color: silver;    
+
+    
+}
+
+
+.brdr
+      {
+        border: 5px;
+        padding: 15px 325px;
+
+      }
+
+.color
+{
+  background-color: orange;
+}
+.txt
+      {
+        text-align: center;
+
+      }
+.lvl1
+        {
+            padding: 5px;
+            font-size: 18px; 
+        }
+.lvl2
+      {
+          padding: 5px;
+          font-size: 18px;
+          margin-left: 28px;
+      }
+ul {
+    list-style-type: none;
+    position:fixed;
+    margin: 0px;
+    padding: 3px;
+    top:0;
+    width:100%;
+   background-color:indigo;
+
+    
+}
+
+
+li 
+{
+    float: left;
+    display: inline-block;
+     
+}
+
+
+li a, .dropbtn
+{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: black;
+
+}
